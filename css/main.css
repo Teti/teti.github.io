@@ -40,7 +40,7 @@ h2 {
 
 a:hover {
     text-decoration: none;
-    color: aqua;
+    
 }
 
 .section-heading {
@@ -224,6 +224,7 @@ a:hover {
     letter-spacing: normal;
     border-radius: 0;
 }
+
 
 #call-to-action {
     background: #02bdd5;
